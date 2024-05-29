@@ -1,2 +1,7 @@
-[blog](https://blog.leejunho.com)
-[ ] building with pure md and html
+# blog & photo gallery
+link: <https://blog.leejunho.com>  
+* references
+    - <https://sunbliss.github.io/photorama/>
+    -
+
+
