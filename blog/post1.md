@@ -1,2 +1,2 @@
 # Post 1
-!(blog/image/lena.png)
+![lena](./image/lena.png)
